@@ -428,7 +428,7 @@ top: 73px;
 font-size:60px;
  line-height:73px;
  -webkit-text-stroke: 1px rgb(255, 255, 255);
-font-weight:900;
+font-weight:900px;
 color: #845ec2;
 }
 .rectangle1{
@@ -471,7 +471,7 @@ text-align: left;
 }
 .Price_number{
 position: absolute;
-bottom: 47px;
+bottom: 40px;
 left: 403px;
 color: rgb(255, 255, 255);
 font-family: var(--font-family);
